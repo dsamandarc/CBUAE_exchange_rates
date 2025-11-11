@@ -1,0 +1,12 @@
+currency,rate,rate_float,extraction_timestamp,extraction_method
+US Dollar,3.6725,3.6725,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Australian Dollar,2.40017,2.40017,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Brazilian Real,0.696644,0.696644,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Canadian Dollar,2.621903,2.621903,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Swiss Franc,4.594071,4.594071,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Chinese Yuan - Offshore,0.515895,0.515895,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Chinese Yuan,0.516018,0.516018,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Euro,4.260935,4.260935,2025-11-11T19:13:48.054811+00:00,selenium_simple
+GB Pound,4.837966,4.837966,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Japanese Yen,0.023885,0.023885,2025-11-11T19:13:48.054811+00:00,selenium_simple
+Singapore Dollar,2.825217,2.825217,2025-11-11T19:13:48.054811+00:00,selenium_simple

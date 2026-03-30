@@ -1,8 +1,8 @@
 {
-  "last_extraction": "2026-03-29T19:14:19.835092+00:00",
+  "last_extraction": "2026-03-30T19:24:32.690064+00:00",
   "extraction_method": "selenium_simple",
   "currencies_extracted": 11,
-  "extraction_duration_seconds": 19.95,
+  "extraction_duration_seconds": 18.55,
   "success": true,
   "source_url": "https://www.centralbank.ae/en/forex-eibor/exchange-rates/",
   "extractor_version": "1.0.0",

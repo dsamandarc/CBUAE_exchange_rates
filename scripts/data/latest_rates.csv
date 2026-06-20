@@ -1,12 +1,12 @@
 currency,rate,rate_float,extraction_timestamp,extraction_method
-US Dollar,3.6725,3.6725,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Australian Dollar,2.574303,2.574303,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Brazilian Real,0.713952,0.713952,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Canadian Dollar,2.591926,2.591926,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Swiss Franc,4.547988,4.547988,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Chinese Yuan - Offshore,0.541012,0.541012,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Chinese Yuan,0.542523,0.542523,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Euro,4.209652,4.209652,2026-06-19T19:34:50.262826+00:00,selenium_simple
-GB Pound,4.855229,4.855229,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Japanese Yen,0.022765,0.022765,2026-06-19T19:34:50.262826+00:00,selenium_simple
-Singapore Dollar,2.842492,2.842492,2026-06-19T19:34:50.262826+00:00,selenium_simple
+US Dollar,3.6725,3.6725,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Australian Dollar,2.574303,2.574303,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Brazilian Real,0.713952,0.713952,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Canadian Dollar,2.591926,2.591926,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Swiss Franc,4.547988,4.547988,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Chinese Yuan - Offshore,0.541012,0.541012,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Chinese Yuan,0.542523,0.542523,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Euro,4.209652,4.209652,2026-06-20T19:32:38.791318+00:00,selenium_simple
+GB Pound,4.855229,4.855229,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Japanese Yen,0.022765,0.022765,2026-06-20T19:32:38.791318+00:00,selenium_simple
+Singapore Dollar,2.842492,2.842492,2026-06-20T19:32:38.791318+00:00,selenium_simple

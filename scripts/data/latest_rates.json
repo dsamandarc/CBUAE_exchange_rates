@@ -3,77 +3,77 @@
     "currency": "US Dollar",
     "rate": "3.6725",
     "rate_float": 3.6725,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Australian Dollar",
     "rate": "2.574303",
     "rate_float": 2.574303,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Brazilian Real",
     "rate": "0.713952",
     "rate_float": 0.713952,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Canadian Dollar",
     "rate": "2.591926",
     "rate_float": 2.591926,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Swiss Franc",
     "rate": "4.547988",
     "rate_float": 4.547988,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Chinese Yuan - Offshore",
     "rate": "0.541012",
     "rate_float": 0.541012,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Chinese Yuan",
     "rate": "0.542523",
     "rate_float": 0.542523,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Euro",
     "rate": "4.209652",
     "rate_float": 4.209652,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "GB Pound",
     "rate": "4.855229",
     "rate_float": 4.855229,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Japanese Yen",
     "rate": "0.022765",
     "rate_float": 0.022765,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Singapore Dollar",
     "rate": "2.842492",
     "rate_float": 2.842492,
-    "extraction_timestamp": "2026-06-20T19:32:38.791561+00:00",
+    "extraction_timestamp": "2026-06-21T19:32:49.639025+00:00",
     "extraction_method": "selenium_simple"
   }
 ]

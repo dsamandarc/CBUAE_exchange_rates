@@ -3,77 +3,77 @@
     "currency": "US Dollar",
     "rate": "3.6725",
     "rate_float": 3.6725,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Australian Dollar",
-    "rate": "2.542402",
-    "rate_float": 2.542402,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "2.549108",
+    "rate_float": 2.549108,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Brazilian Real",
-    "rate": "0.712955",
-    "rate_float": 0.712955,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "0.714452",
+    "rate_float": 0.714452,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Canadian Dollar",
-    "rate": "2.590646",
-    "rate_float": 2.590646,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "2.590098",
+    "rate_float": 2.590098,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Swiss Franc",
-    "rate": "4.538433",
-    "rate_float": 4.538433,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "4.552498",
+    "rate_float": 4.552498,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Chinese Yuan - Offshore",
-    "rate": "0.539526",
-    "rate_float": 0.539526,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "0.540376",
+    "rate_float": 0.540376,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Chinese Yuan",
-    "rate": "0.539994",
-    "rate_float": 0.539994,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "0.540447",
+    "rate_float": 0.540447,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Euro",
-    "rate": "4.190438",
-    "rate_float": 4.190438,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "4.202426",
+    "rate_float": 4.202426,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "GB Pound",
-    "rate": "4.911414",
-    "rate_float": 4.911414,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "4.924084",
+    "rate_float": 4.924084,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Japanese Yen",
-    "rate": "0.022596",
-    "rate_float": 0.022596,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "0.022625",
+    "rate_float": 0.022625,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   },
   {
     "currency": "Singapore Dollar",
-    "rate": "2.838318",
-    "rate_float": 2.838318,
-    "extraction_timestamp": "2026-07-08T19:31:43.843969+00:00",
+    "rate": "2.841613",
+    "rate_float": 2.841613,
+    "extraction_timestamp": "2026-07-09T19:33:30.134704+00:00",
     "extraction_method": "selenium_simple"
   }
 ]

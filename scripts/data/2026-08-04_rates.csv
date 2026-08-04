@@ -1,0 +1,12 @@
+currency,rate,rate_float,extraction_timestamp,extraction_method
+US Dollar,3.6725,3.6725,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Australian Dollar,2.583902,2.583902,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Brazilian Real,0.719435,0.719435,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Canadian Dollar,2.611091,2.611091,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Swiss Franc,4.542362,4.542362,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Chinese Yuan - Offshore,0.544308,0.544308,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Chinese Yuan,0.543784,0.543784,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Euro,4.231966,4.231966,2026-08-04T19:32:17.355156+00:00,selenium_simple
+GB Pound,4.939143,4.939143,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Japanese Yen,0.023325,0.023325,2026-08-04T19:32:17.355156+00:00,selenium_simple
+Singapore Dollar,2.865559,2.865559,2026-08-04T19:32:17.355156+00:00,selenium_simple
